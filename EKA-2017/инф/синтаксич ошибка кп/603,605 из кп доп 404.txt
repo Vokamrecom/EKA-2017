@@ -1,0 +1,6 @@
+main
+{
+type string syntax;
+syntax = syntax ++ 1;
+write (syntax);
+}

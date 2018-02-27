@@ -1,0 +1,12 @@
+integer function inc(integer a, string b)
+{
+return a;
+}
+
+main
+{
+type integer a;
+type integer b;
+a = 1;
+a = inc(a);
+}

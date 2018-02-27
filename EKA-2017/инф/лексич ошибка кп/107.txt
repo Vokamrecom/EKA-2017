@@ -1,0 +1,7 @@
+main
+{
+type integer lex;
+type integer lex;
+lex = 19;
+write(lex);
+}

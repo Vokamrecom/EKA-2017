@@ -1,0 +1,13 @@
+integer function int(integer a, integer b)
+main
+{
+CMatLib;
+type integer g;
+type integer j;
+type integer r;
+g = 5 ;
+r = 2;
+
+j = int(g, r);
+write(j);
+}

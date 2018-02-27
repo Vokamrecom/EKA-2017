@@ -1,0 +1,10 @@
+main
+{
+
+
+type integer s;
+type integer r;
+
+s = stepen(3);
+write(s);
+}

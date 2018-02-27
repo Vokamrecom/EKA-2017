@@ -1,0 +1,15 @@
+integer function inc(integer c)
+{
+type integer d;
+d=1+c;
+return d;
+}
+main
+{
+type integer a;
+type integer b;
+type integer f;
+b = 1;
+a == inc(b);
+write(a);
+}

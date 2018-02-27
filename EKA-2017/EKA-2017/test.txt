@@ -1,0 +1,53 @@
+integer function int(integer a, integer b)
+{
+type integer c;
+c = 3*(a-b)+3/6;
+return c;
+}
+
+string function pw(string e)
+{
+type string d;
+d = e;
+write(d);
+return d;
+}
+
+integer function qwerty()
+{
+type integer c;
+c = 1;
+return c; 
+}
+
+main
+{
+CMatLib;
+type integer g;
+type integer j;
+type integer string s;
+type integer r;
+type string l;
+type string p;
+type string probel;
+
+probel = ' ';
+l =' Success' ;
+
+g = 5 ;
+r = 2;
+
+j = int(g, r);
+p = pw(probel);
+write(j);
+
+s = stepen(3);
+p = pw(probel);
+write(s);
+
+p = pw(l) ;
+
+g = qwerty() + g + 8;
+p = pw(probel);
+write(g);
+}

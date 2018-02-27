@@ -1,0 +1,10 @@
+main
+{
+
+CMatLib;
+type integer s;
+type integer r;
+
+s = koren(3);
+write(s);
+}

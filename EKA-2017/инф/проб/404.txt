@@ -1,0 +1,11 @@
+main
+{
+CMatLib;
+type string f;
+type string g;
+type string h;
+f= 'string';
+g= 'string';
+h=f+g;
+write(f);
+}

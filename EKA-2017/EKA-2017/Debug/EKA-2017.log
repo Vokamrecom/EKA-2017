@@ -1,0 +1,5 @@
+﻿  Error.cpp
+d:\кирилл\универ\яп\eka-2017\eka-2017\error.cpp(28): warning C4003: не хватает фактических параметров для макроопределения "ERROR_ENTRY"
+d:\кирилл\универ\яп\eka-2017\eka-2017\error.cpp(31): warning C4003: не хватает фактических параметров для макроопределения "ERROR_ENTRY"
+  EKA-2017.vcxproj -> D:\Кирилл\Универ\ЯП\EKA-2017\Debug\EKA-2017.exe
+  EKA-2017.vcxproj -> D:\Кирилл\Универ\ЯП\EKA-2017\Debug\EKA-2017.pdb (Partial PDB)

@@ -1,0 +1,8 @@
+main
+{
+CMatLib;
+CMatLib;
+type integer f;
+f= stepen(2);
+write(f);
+}

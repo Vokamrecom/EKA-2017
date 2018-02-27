@@ -1,0 +1,14 @@
+integer function s(integer a)
+{
+type integer b;
+b=1;
+return b;
+}
+main
+{
+type integer g;
+type integer s;
+s=2;
+g=s(2);
+write(g);
+}

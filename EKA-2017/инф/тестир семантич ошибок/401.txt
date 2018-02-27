@@ -1,0 +1,7 @@
+main
+{
+type integer a;
+type string b;
+a = 1;
+b = a;
+}
